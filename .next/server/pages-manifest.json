@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/assessments": "pages/assessments.js",
+  "/dashboard": "pages/dashboard.js",
+  "/training": "pages/training.js",
+  "/certificates": "pages/certificates.js",
+  "/profile": "pages/profile.js",
+  "/assessments/[id]": "pages/assessments/[id].js",
+  "/login": "pages/login.js"
+}

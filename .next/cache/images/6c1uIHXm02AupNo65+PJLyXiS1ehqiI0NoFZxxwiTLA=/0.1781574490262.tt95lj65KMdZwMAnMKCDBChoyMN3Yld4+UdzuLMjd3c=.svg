@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IAV mark">
+  <path d="M14 8 L30 48 L22 48 L18 38 L6 8 Z" fill="#BF1E26"/>
+  <path d="M30 8 L42 38 L54 8 L62 8 L46 48 L38 48 L22 8 Z" fill="#D82B25"/>
+  <rect x="2" y="54" width="44" height="5" transform="skewX(-12)" fill="#393939"/>
+</svg>

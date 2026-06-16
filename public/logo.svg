@@ -1,0 +1,13 @@
+<svg width="220" height="96" viewBox="0 0 220 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IAV smart solutions">
+  <!-- i -->
+  <rect x="2" y="22" width="22" height="14" transform="skewX(-12)" fill="#393939"/>
+  <rect x="2" y="42" width="22" height="26" transform="skewX(-12)" fill="#393939"/>
+  <!-- A (crimson) -->
+  <path d="M70 12 L96 68 L80 68 L74 54 L52 54 L46 68 L30 68 L56 12 Z M58 42 L68 42 L63 30 Z" fill="#BF1E26"/>
+  <!-- V (bright red) -->
+  <path d="M96 12 L120 68 L136 68 L160 12 L144 12 L128 50 L112 12 Z" fill="#D82B25"/>
+  <!-- underline accent -->
+  <rect x="2" y="74" width="150" height="6" transform="skewX(-12)" fill="#393939"/>
+  <!-- wordmark -->
+  <text x="6" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="3" fill="#393939">smart solutions</text>
+</svg>
