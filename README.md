@@ -672,6 +672,16 @@ Please follow the existing TypeScript + Zod + Prisma patterns in the backend, an
 
 <br/>
 
+---
+
+### 🔐 Authorization & Rights
+
+> **Authorized by: Happy Pandey**  
+> *All rights reserved. Unauthorized use, reproduction, or distribution of this software*  
+> *or any portion thereof is strictly prohibited without prior written consent.*
+
+---
+
 ⭐ If this project helped you, please consider giving it a star!
 
 </div>
